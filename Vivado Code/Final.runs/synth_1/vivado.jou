@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Mar 20 11:06:15 2022
+# Process ID: 23596
+# Current directory: C:/Users/deshr/OneDrive/Desktop/Mini Project Final/Final/Final.runs/synth_1
+# Command line: vivado.exe -log Image_Processing_Final.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Image_Processing_Final.tcl
+# Log file: C:/Users/deshr/OneDrive/Desktop/Mini Project Final/Final/Final.runs/synth_1/Image_Processing_Final.vds
+# Journal file: C:/Users/deshr/OneDrive/Desktop/Mini Project Final/Final/Final.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Image_Processing_Final.tcl -notrace

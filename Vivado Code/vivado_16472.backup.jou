@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct  4 12:55:54 2021
+# Process ID: 16472
+# Current directory: C:/Users/deshr/OneDrive/Desktop/Mini Project 2/Final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3976 C:\Users\deshr\OneDrive\Desktop\Mini Project 2\Final\Final.xpr
+# Log file: C:/Users/deshr/OneDrive/Desktop/Mini Project 2/Final/vivado.log
+# Journal file: C:/Users/deshr/OneDrive/Desktop/Mini Project 2/Final\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/deshr/OneDrive/Desktop/Mini Project 2/Final/Final.xpr}
+update_compile_order -fileset sources_1
